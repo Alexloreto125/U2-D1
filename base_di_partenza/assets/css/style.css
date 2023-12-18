@@ -327,13 +327,20 @@ footer a {
     font-size: 20px;
     line-height: 45px;
   }
+
   #separazione iframe {
     height: 250px;
   }
+  #separazione #iframeSets {
+    padding-right: 10px;
+  }
+
   #separazione > div {
     width: 50%;
   }
-
+  section {
+    padding-left: 10px;
+  }
   section p {
     margin-bottom: 0.2em;
   }
